@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>DemoSecurity</artifactId>
+	<artifactId>Spring_Security-BE_Easy_Bank</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DemoSecurity</name>
-	<description>Demo Security With JWT</description>
+	<name>Spring_Security-BE_Easy_Bank</name>
+	<description>Spring_Security-BE_Easy_Bank</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
