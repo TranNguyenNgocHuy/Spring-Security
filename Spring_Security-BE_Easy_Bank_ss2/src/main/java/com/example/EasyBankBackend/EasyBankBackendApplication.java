@@ -1,13 +1,11 @@
-package com.example.DemoSecurity;
+package com.example.EasyBankBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
-
 @SpringBootApplication
-public class DemoSecurityApplication {
+public class EasyBankBackendApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(DemoSecurityApplication.class, args);
+		SpringApplication.run(EasyBankBackendApplication.class, args);
 	}
 }
