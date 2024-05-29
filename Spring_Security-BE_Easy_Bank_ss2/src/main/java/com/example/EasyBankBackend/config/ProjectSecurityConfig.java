@@ -21,7 +21,7 @@ public class ProjectSecurityConfig {
         return http.build();
     }
 
-    
+
     /**
      *  Configuration to deny all the requests
      */
